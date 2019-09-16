@@ -1,4 +1,4 @@
-# Pollster - voting aplication
+# Pollster - voting apllication
 
 ## MVC PHP & MYSQL app based on TraversyMVC framework
 
