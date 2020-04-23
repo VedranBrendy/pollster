@@ -6,7 +6,6 @@
 **
 */
 
-
 ?>
   <div class="jumbotron jumbotron-flud text-center">
     <div class="container">

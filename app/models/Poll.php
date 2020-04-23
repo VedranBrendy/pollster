@@ -115,8 +115,7 @@
         $last_id = $this->db->lastInsertId();
         $this->db->query('INSERT INTO poll_votes (poll_id, q1_v, q2_v, q3_v) 
                           VALUES("'.$last_id.'", 0, 0, 0)');
-        
-      
+         
         return true;
       } else {
         return false;
